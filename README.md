@@ -3,8 +3,11 @@
 A stylish and user-friendly **Restaurant Billing System** built using **Python & Tkinter** to calculate the total bill with taxes and service charges automatically.
 
 > ✅ Perfect for beginners
+> 
 > ✅ Ideal mini-project for college
+> 
 > ✅ Clean GUI for easy billing
+> 
 > ✅ Accurate bill calculation
 
 ---
@@ -12,12 +15,19 @@ A stylish and user-friendly **Restaurant Billing System** built using **Python &
 ## ✨ Highlights
 
 ✔ Interactive Graphical Interface
+
 ✔ Real-time bill calculation
+
 ✔ Automatic service charge (11%)
+
 ✔ Automatic CGST (8%)
+
 ✔ Automatic SGST (7%)
+
 ✔ Clear & reset feature
+
 ✔ Exit button for safety
+
 ✔ Beginner-friendly code
 
 ---
