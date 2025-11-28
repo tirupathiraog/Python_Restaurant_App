@@ -1,5 +1,8 @@
 # 🍽️ Restaurant Billing Application (Python Tkinter)
 
+
+![Python_Restaurant_App](restaurant_app.png)
+
 A stylish and user-friendly **Restaurant Billing System** built using **Python & Tkinter** to calculate the total bill with taxes and service charges automatically.
 
 > ✅ Perfect for beginners
